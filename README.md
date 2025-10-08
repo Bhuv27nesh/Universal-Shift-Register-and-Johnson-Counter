@@ -8,9 +8,11 @@ The output is taken through series of LED.
 </p>
 
 The particular operations were as follows:  
-
-  <img src="https://github.com/user-attachments/assets/71ea48f1-1991-4a86-afe9-aea0e3faad45" alt="usr_jc_2" width="550" height="250" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71ea48f1-1991-4a86-afe9-aea0e3faad45" alt="usr_jc_2" width="550" height="250" />&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/f2db369c-56e6-4a01-ae6d-845859b65cca" alt="usr_jc_3" width="500" height="300" />
+</p>
+
 
 
 <p align="center">
