@@ -5,11 +5,13 @@ The output is taken through series of LED.
 <img width="647" height="530" alt="usr_jc_1" src="https://github.com/user-attachments/assets/64dc603d-d7e4-488f-b794-a341a9c9d4c2" />
 
 
-The particular operations were as follows : 
-  
-<img width="550" height="250" alt="usr_jc_2" src="https://github.com/user-attachments/assets/71ea48f1-1991-4a86-afe9-aea0e3faad45" />
+The particular operations were as follows:
 
-<img width="500" height="300" alt="usr_jc_3" src="https://github.com/user-attachments/assets/f2db369c-56e6-4a01-ae6d-845859b65cca" />  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71ea48f1-1991-4a86-afe9-aea0e3faad45" alt="usr_jc_2" width="550" height="250" />
+  <img src="https://github.com/user-attachments/assets/f2db369c-56e6-4a01-ae6d-845859b65cca" alt="usr_jc_3" width="500" height="300" />
+</p>
 
-
-<img width="480" height="380" alt="USR_JC" src="https://github.com/user-attachments/assets/83481cf6-1cc1-46c1-adcc-5320c790c08e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83481cf6-1cc1-46c1-adcc-5320c790c08e" alt="USR_JC" width="480" height="380" />
+</p>
