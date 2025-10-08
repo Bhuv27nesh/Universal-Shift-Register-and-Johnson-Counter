@@ -9,7 +9,7 @@ The particular operations were as follows :
   
 <img width="550" height="250" alt="usr_jc_2" src="https://github.com/user-attachments/assets/71ea48f1-1991-4a86-afe9-aea0e3faad45" />
 
-<img width="500" height="300" alt="usr_jc_3" src="https://github.com/user-attachments/assets/f2db369c-56e6-4a01-ae6d-845859b65cca" />
+<img width="500" height="300" alt="usr_jc_3" src="https://github.com/user-attachments/assets/f2db369c-56e6-4a01-ae6d-845859b65cca" />  
 
 
 <img width="480" height="380" alt="USR_JC" src="https://github.com/user-attachments/assets/83481cf6-1cc1-46c1-adcc-5320c790c08e" />
